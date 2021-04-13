@@ -8,7 +8,6 @@
 
 |No|Read|
 |---|------|
-1|[Growth Mindset](read02.md)
-2|[Basic writing and formatting syntax](README.md)
-3|[More Information](recap2.md)
-4|[Exstra Information](recap2.ms)
+1|[Growth Mindset](read01.md)
+2|[Git](read02.md)
+
