@@ -7,4 +7,3 @@ You can build tables to organize information in comments, issues, pull requests,
 Share samples of code with fenced code blocks and enabling syntax highlighting.
 
 [Autolinked references and URLs](https://docs.github.com/en/github/writing-on-github/autolinked-references-and-urls)
-
