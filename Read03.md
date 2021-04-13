@@ -18,6 +18,7 @@ layouts going forward. In this chapter you will see:
 together related elements on the page (such as the elements that form a
 header, an article, footer or sidebar). Authors used class or id attributes
 to indicate the role of the <div> element in the structure of the page.
+![image](111.png)
 ## New Html5 Layout Elements
 
 + HTML5 introduces a new set of elements that allow you to divide up the
