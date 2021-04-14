@@ -16,6 +16,7 @@
 
 ![Image](43.png)
 ![Image](44.png)
+
 ## How Computers Work: Binary & Data 
 
 
@@ -28,5 +29,5 @@
 
 * All software, music, documents, and any other information that is processed by a computer, is also stored using binary
 
-* ![image(46.png)]
-* [Sorce](http://code.org/​)
+* ![image](46.png)
+* [Sorce](https://www.youtube.com/watch?v=USCBCmwMCDA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=3​)
