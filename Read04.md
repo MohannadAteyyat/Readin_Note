@@ -5,7 +5,7 @@
 1. Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. 
 2. Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files. 
 Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
-![Image](/Image/555.png)
+![Image](555.png)
 ![image](666.png)
 # PROGRESSIVE ENHANCEMENT
 * These three layers form the basis of a popular approach to building web pages called progressive enhancement
@@ -22,7 +22,7 @@ Each language forms a separate layer with a different purpose. Each layer, from 
 8. Open the HTML file in your web browser and the welcome greeting is written into the page. 
 
 
-(http://www.javascriptbook/) 
+[http://www.javascriptbook/](http://www.javascriptbook/) 
 ## LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE 
 + When you want to use JavaScript with a web page, you use the HTML <script> element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored. 
 # How to usr objects and methodes 
