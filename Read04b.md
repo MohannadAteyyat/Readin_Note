@@ -14,8 +14,8 @@
 5. Video and Sound Cards – Two components which help the user interact with the computer. Although one can use a computer with a missing sound card, it’s not really possible to use it without a video card. The sound card is used mainly to play sound through a speaker. However, a video card is used to send images on the screen. Without it, it would be like looking at an empty monitor.
 6. Network adapter – Even though it is not actually required to operate the computer, the Network adapter improves the user’s experience as it provides access to the internet. Modern computers with operating systems such as Windows 10 will not offer the user all of its features without an Internet connection.
 
-![Image](43.png)
-![Image](44.png)
+![Image](/Images/43.png)
+![Image](/Images/44.png)
 
 ## How Computers Work: Binary & Data 
 
@@ -29,5 +29,5 @@
 
 * All software, music, documents, and any other information that is processed by a computer, is also stored using binary
 
-* ![image](46.png)
+* ![image](/Images/46.png)
 * [Sorce](https://www.youtube.com/watch?v=USCBCmwMCDA&list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-&index=3​)

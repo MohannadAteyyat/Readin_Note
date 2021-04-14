@@ -5,11 +5,11 @@
 1. Web developers usually talk about three languages that are used to create web pages: HTML, CSS, and JavaScript. 
 2. Where possible, aim to keep the three languages in separate files, with the HTML page linking to CSS and JavaScript files. 
 Each language forms a separate layer with a different purpose. Each layer, from left to right. builds on the previous one.
-![Image](555.png)
-![image](666.png)
+![Image](/Images/555.png)
+![image](/Images/666.png)
 # PROGRESSIVE ENHANCEMENT
 * These three layers form the basis of a popular approach to building web pages called progressive enhancement
-![image](777.png)
+![image](/Images/777.png)
 ## CREATING A BASIC JAVASCRIPT 
 - JavaScript is written in plain text, just like HTML and CSS, so you do not need any new tools to write a script. This example adds a greeting into an HTML page. The greeting changes depending on the time of day. 
 1. 0 Create a folder to put the example in called cOl, then start up your favorite code editor, and enter the text to the right. A JavaScript file is just a text file (like HTML and CSS files are) but it has a . j s file extension, so save this file with the name add-content . j s
@@ -26,23 +26,23 @@ Each language forms a separate layer with a different purpose. Each layer, from 
 ## LINKING TO A JAVASCRIPT FILE FROM AN HTML PAGE 
 + When you want to use JavaScript with a web page, you use the HTML <script> element to tell the browser it is coming across a script. Its s re attribute tells people where the JavaScript file is stored. 
 # How to usr objects and methodes 
-![Image](888.png)
+![Image](/Images/888.png)
 ## JAVASCRIPT RUNS WHERE IT IS FOUND IN THE HTML
 + When the browser comes across a <script> element, it stops to load the script and then checks to see if it needs to do anything. 
-![image](999.png)
+![image](/Images/999.png)
 # Bacic Javascript Instruction
 + In this chapter, you will start learning to read and write JavaScript. You wil l also learn how to give a web browser instructions you want it to follow.
 ## STATEMENTS 
 + A script is a series of instructions that a computer can follow one-by-one. Each individual instruction or step is known as a statement. Statements should end with a semicolon.  
-![image](10.png)
+![image](/Images/10.png)
 ## COMMENTS 
 + You should write comments to explain what your code does. They help make your code easier to read and understand. This can help you and others who read your code. 
 ## WHAT IS A VARIABLE? 
  A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables. 
  + A variable is a good name for this concept because the data stored
 in a variable can change (or vary) each time a script runs. 
-![image](11.png)
-![image](12.png)
+![image](/Images/11.png)
+![image](/Images/12.png)
 ### DATA TYPES 
 * JavaScript distinguishes between numbers, strings, and true or false values known as Booleans.  
 ## USING A VARIABLE TO STORE A NUMBER 
