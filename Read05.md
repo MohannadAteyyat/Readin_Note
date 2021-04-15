@@ -1,4 +1,6 @@
-![Image](/Image/2.png)
+![Image](/Images/2.png)
+
+
 
 + Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. In this chapter, you will learn how to create and control the flow ofdata in your scripts to handle different situations. 
 + Scripts often need to behave differently depending upon how the user interacts with the web page and/or the browser window itself. To determine which path to take, programmers often rely upon the following three concepts:
@@ -7,9 +9,9 @@
 Using the results of evaluations, you can decide which path your script should go down.
 3. LOOPS
 There are also many occasions where you will want to perform the same set of steps repeatedly. 
-![3](/Image/3.png)
+![3](/Images/3.png)
 ##  Structuing comparision operators 
-![4](/Image/4.png)
+![4](/Images/4.png)
 ## USING COMPARISON OPERATORS 
 + At the most basic level, you can evaluate two variables using a comparison operator to return a t rue or f al se value. In this example, a user is taking a test, and the script tells the user whether they have passed this round of the test. The example starts by setting two variables:
 1. pass to hold the pass mark
