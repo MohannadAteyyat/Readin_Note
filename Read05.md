@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Comparison and logical operators
+=======
+
+>>>>>>> 5dfd67fd220a795a92d89d3442987df27ce17b67
 ![Image](/Images/2.png)
 
 
