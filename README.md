@@ -10,4 +10,7 @@
 |---|------|
 1|[Growth Mindset](read01.md)
 2|[Git](read02.md)
-
+3|[HTML5 Layout](Read03.md)
+4|[Dynamic web pages with JavaScript ](Read04.md)
+5|[How Computers Work ](Read04b.md)
+6|[Comparison and logical operators](Read05.md)

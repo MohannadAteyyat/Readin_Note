@@ -1,6 +1,10 @@
+# Comparison and logical operators
 ![Image](/Images/2.png)
 
 
+
+
+![Image](/Image/2.png)
 
 + Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. In this chapter, you will learn how to create and control the flow ofdata in your scripts to handle different situations. 
 + Scripts often need to behave differently depending upon how the user interacts with the web page and/or the browser window itself. To determine which path to take, programmers often rely upon the following three concepts:
