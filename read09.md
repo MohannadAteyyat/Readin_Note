@@ -18,11 +18,11 @@ Comes With Your Computer
   ### Third-Party Options
 * Ok, what about third-party options? Let’s talk about software like: Notepad++, Text Wrangler, BB Edit, Visual Studio Code, Atom, Brackets, and Sublime Text. These text editors can all be downloaded and installed to your computer from their respective websites. Each of these titles do have some if not all of the features that we talked about earlier, and most of this software is absolutely free! They are widely used in web development today.
 
-![Image](Images/z1.png)
-![Image](Images/z2.png)
-![Image](Images/z3.png)
-![Image](Images/z4.png)
-![Image](Images/z5.png)
+![Image](/Images/z1.png)
+![Image](/Images/z2.png)
+![Image](/Images/z3.png)
+![Image](/Images/z4.png)
+![Image](/Images/z5.png)
 
 
 ## The Difference Between Text Editors and IDEs
