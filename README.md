@@ -15,3 +15,4 @@
 5|[How Computers Work ](Read04b.md)
 6|[Comparison and logical operators](Read05.md)
 7|[Introducing CSS and color](Read07.md)
+8|[Functions](Read06.md)
