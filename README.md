@@ -10,7 +10,7 @@
 
 |No|Read Headline|
 |---|------|
-1|[Growth Mindset](Code101/read01.md)
+1|[Growth Mindset](/Code101/read01.md)
 2|[Git](/Code101/read02.md)
 3|[HTML5 Layout](/Code101/Read03.md)
 4|[Dynamic web pages with JavaScript ](/Code101/Read04.md)
