@@ -9,7 +9,7 @@
 + How WebsitesAre Created ?
 * All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 # Chapter 1: Structure
-![Image](./Images201/a1.png)
+![Image](/Images201/a1.png)
 
 + The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
 ## Structuring Word Documents
@@ -17,14 +17,14 @@
 ## HTM L Describes the Structure of Pages
 - In the browser window you can see a web page that features exactly the same content as the Word document you met on the page 18. To describe the structure of a web page, we add code to the words we want to appear on the page.
 - You can see the HTML code for this page below. Don't worry about what the code means yet. We start to look at it in more detail on the next page. Note that the HTML code is in blue, and the text you see on screen is in black.
-![Image](./Images201/a2.png)
+![Image](/Images201/a2.png)
 ### HTM L Us es El ements to Describe the Structure of Pages 
 + Let's look closer at the code from the last page. There are several different elements. Each element has an opening tag and a closing tag.
 + Tags act like containers. They tell you something about the information that lies between their opening and closing tags.
 ### A Closer Look at Tags
-![Image](./Images201/2a.png)
+![Image](/Images201/2a.png)
 ### Body, Head & Title
-![Image](./Images201/a3.png)
+![Image](/Images201/a3.png)
 # Chapter 8: Extra Markup
 ### The Evolution of HT ML 
 + Since the web was first created, there have been several different versions of HTML. 
@@ -41,7 +41,7 @@
 + Examples of block elements are 
 ####  Grouping Text & Eleme nts In a Block 
 ##### div
-![Image](./Images201/a5.png)
+![Image](/Images201/a5.png)
 ### meta
 + The meta element lives inside the head element and contains information about that web page. It is not visible to users but fulfills a number of purposes such as telling search engines about your page, who created it, and whether or not it is time sensitive. (If the page is time sensitive, it can be set to expire.)
 
@@ -66,7 +66,7 @@
  * Who is the Site For? 
  + Every website should be designed for the target audience—not just for yourself or the site owner. It is therefore very important to understand who your target audience is.
 + Why People Visit YOUR Website
-![Image](./Images201/a6.png)
+![Image](/Images201/a6.png)
 + What Your Visitors are Trying to Achieve 
 * Gordon bought a tennis racquet several years ago; now he wants to purchase one from your site for his girlfriend.
 + Molly has read about your new doggy daycare service in the press and wants to find out whether it would be suitable for her to use.
@@ -81,12 +81,12 @@
 + This book explains how JavaScript can be used
 in browsers to make websites more interactive, interesting, and user-friendly. You will also learn about jQuery because it makes writing JavaScript a lot easier.
 ## Introduction 
-![Image](./Images201/a7.png)
+![Image](/Images201/a7.png)
 
-![Image](./Images201/a8.png)
+![Image](/Images201/a8.png)
 # Chapter 1:The ABC of Programming
 + Before you learn how to read and write the JavaScript language itself, you need to become familiar with some key concepts in computer programming. They will be covered in three sections:
-![Image](./Images201/a9.png) 
+![Image](/Images201/a9.png) 
 
 + A script is a series of instructions that a computer can follow to achieve a goal. You could compare scripts to any of the following:
 1. RECIPES
@@ -97,7 +97,7 @@ in browsers to make websites more interactive, interesting, and user-friendly. Y
 + Mechanics often refer to car repair manuals when servicing models they are not familiar with. These manuals contain a series of tests to check the key functions of the car are working, along with details of how to fix any issues that arise.
 + HOW HTML, CSS, & JAVASCRIPT FIT TOGETHER
 + Before diving into the JavaScript language, you need to know how it will fit together with the HTML and CSS in your web pages.
-![Image](./Images201/a10.png)
+![Image](/Images201/a10.png)
 
 
 ## Resources
