@@ -24,7 +24,8 @@
 
 |No|Read Headline|
 |----|------|
-1|[Basic writing and formatting syntax](Code201/Lab01a.md)
+1|[Lap01a](Code201/Lab01a.md)
+2|[Read01](/Code201/Read01.md)
 3|[]()
 4|[]()
 5|[]()
