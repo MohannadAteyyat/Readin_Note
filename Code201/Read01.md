@@ -9,7 +9,7 @@
 + How WebsitesAre Created ?
 * All websites use HTML and CSS, but content management systems, blogging software, and e-commerce platforms often add a few more technologies into the mix.
 # Chapter 1: Structure
-![Image](./Images201/a1.png)
+![Image](/Images201/a1.png)
 
 + The structure is very similar when a news story is viewed online (although it may also feature audio or video). This is illustrated on the right with a copy of a newspaper alongside the corresponding article on its website.
 ## Structuring Word Documents
@@ -24,7 +24,7 @@
 ### A Closer Look at Tags
 ![Image](./Images201/2a.png)
 ### Body, Head & Title
-![Image](./Images201/a3.png)
+![Image](/Images201/a3.png)
 # Chapter 8: Extra Markup
 ### The Evolution of HT ML 
 + Since the web was first created, there have been several different versions of HTML. 
