@@ -1,4 +1,4 @@
-Chapter 3: Lists
+# Chapter 3: Lists
 ## Ordered Lists 
 1. <ol>
 - The ordered list is created with the <ol> element.
@@ -19,7 +19,7 @@ Chapter 3: Lists
 - This is used to contain the definition. Sometimes you might see a list where there are two terms used for the same definition or two different
 ## Nested list 
 ![Image](/Images201/w1.png)
-### [Sorce](https://drive.google.com/file/d/1OuBQfpRFPnLGq8LmJIgrWFRqQTXUegTr/view?usp=sharing) 
+### [Source](https://drive.google.com/file/d/1OuBQfpRFPnLGq8LmJIgrWFRqQTXUegTr/view?usp=sharing) 
 
 # Chapter 13: Boxes
 ### Box Dimension ( Width, height)
@@ -34,7 +34,7 @@ Chapter 3: Lists
 ## Border, Ma rgin & Padding
 ![Image](/Images201/w3.png)
 
-### [Sorce](https://drive.google.com/file/d/1OuBQfpRFPnLGq8LmJIgrWFRqQTXUegTr/view?usp=sharing) 
+### [Source](https://drive.google.com/file/d/1OuBQfpRFPnLGq8LmJIgrWFRqQTXUegTr/view?usp=sharing) 
 
 # Chapter 2: Basic JavaScript Instructions
 ## STATEMENTS
@@ -48,7 +48,7 @@ It is an example from JavaScript & jQuery book */
 - A script will have to temporarily store the bits of information it needs to do its job. It can store this data in variables.
 
 ![Image](/Images201/w5.png)
-###  [Sorce](https://drive.google.com/file/d/1KFKjXZMEVY5OIxIUcUlCzCxCvZvr529K/view?usp=sharing) 
+###  [Source](https://drive.google.com/file/d/1KFKjXZMEVY5OIxIUcUlCzCxCvZvr529K/view?usp=sharing) 
 
 # Chapter 4: Decisions and Loops
 - Looking at a flowchart (for all but the most basic scripts), the code can take more than one path, which means the browser runs different code in different situations. In this chapter, you will learn how to create and control the flow of data in your scripts to handle different situations.
@@ -67,4 +67,4 @@ It is an example from JavaScript & jQuery book */
 - Because the presence of an object or array can be considered truthy, it is often used to check for the existence of an element within a page.
 #### SHORT CIRCUIT VALUES
 + Logical operators are processed left to right. They short-circuit (stop) as soon as they have a result - but they return the value that stopped the processing (not necessarily true or fa 1 se).
-###  [Sorce](https://drive.google.com/file/d/1KFKjXZMEVY5OIxIUcUlCzCxCvZvr529K/view?usp=sharing) 
+###  [Source](https://drive.google.com/file/d/1KFKjXZMEVY5OIxIUcUlCzCxCvZvr529K/view?usp=sharing) 
