@@ -30,7 +30,7 @@
 4|[Read03](Code201/Read03.md)
 5|[Read04](Code201/Read04.md)
 6|[Read05](Code201/Read05.md)
-7|[]()
+7|[Read06](Code201/Read05.md)
 8|[]()
 9|[]()
 10|[]()
