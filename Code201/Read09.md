@@ -4,7 +4,7 @@
 + The best known form on the web is probably the search box that sits right in the middle of Google's homepage.
 ## Form Controls 
 **There are several types of form controls that you can use to collect information from visitors to your site.**
-![images](/Images201/aq1.png)
+![aaa](Images201/a1.png)
 ### How Forms Work
 ![images](/Images201/aq2.png)
 **A form may have several form controls, each gathering different information. The server needs to know which piece of inputted data corresponds with which form element.**
